@@ -72,6 +72,13 @@ The full selection is:
 - else if (ex_match  && ex_valid_mask[l])  sel_data = ex_data;
 - else if (vrf_ready_mask[l])              sel_data = vrf_data;
 
+ ## 📂 Project Structure
+vector_forwarding_unit/
+ ├── src/
+ │    ├── vpu_forward_unit.v               # RTL (Design Under Test)
+ │    ├── vpu_forward_unit_stimulus.v      # Stimulus: drives inputs
+ │    ├── vpu_forward_unit_monitor.v       # Monitor: logs & waveform
+
 ## 🧪 Simulation & Testing
 Build using Verilator & run the simulation
 
