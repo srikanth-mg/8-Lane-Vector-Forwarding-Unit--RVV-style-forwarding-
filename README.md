@@ -1,4 +1,5 @@
-📘 8-Lane Vector Forwarding Unit — RISC-V Vector Processor (RVV-Style Forwarding)
+## 📘 8-Lane Vector Forwarding Unit — RISC-V Vector Processor (RVV-Style Forwarding)
+
 A fully combinational per-lane data forwarding engine with correct pipeline priority (WB > MEM > EX > VRF).
 
 ## ⭐ Overview
