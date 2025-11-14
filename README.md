@@ -107,4 +107,3 @@ Useful when:
 
 ## 👨‍💻 Author
 Srikanth Muthuvel Ganthimathi
-SUNY Binghamton 
