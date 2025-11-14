@@ -74,9 +74,9 @@ The full selection is:
 
  ## 📂 Project Structure
 vector_forwarding_unit/
-- vpu_forward_unit.v               # RTL (Design Under Test)
-- vpu_forward_unit_stimulus.v      # Stimulus: drives inputs
-- vpu_forward_unit_monitor.v       # Monitor: logs & waveform
+- vpu_forward_unit.v              - RTL Design Under Test
+- vpu_forward_unit_stimulus.v     - drives inputs
+- vpu_forward_unit_monitor.v      - logs & waveform
 
 ## 🧪 Simulation & Testing
 Build using Verilator & run the simulation
